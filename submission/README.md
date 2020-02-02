@@ -11,3 +11,5 @@ Run the python notebooks in the submissions folder:
 
 ## A sample 1D quantum walk 
 ![1dgif](https://i.imgur.com/xxKeFPo.gif)
+
+![1dgif](https://i.imgur.com/EHRxeyr.gif)
