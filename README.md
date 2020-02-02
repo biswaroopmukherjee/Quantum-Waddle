@@ -7,7 +7,7 @@ A tutorial on 1D and 2D quantum walks using Qiskit, with real quantum hardware.
 Run the python notebooks in the submissions folder:
 
 - The [tutorial notebook](submission/Tutorial.ipynb) helps you gain intuition for a quantum walk on a discrete quantum circuit
-- The [1D quantum walk](submission/1D walk on IBM.ipynb) and [2D quantum walk](submission/2D walk on IBM.ipynb) notebooks compare classical random walks, a simulated quantum walk and a quantum walk on IBM hardware.
+- The [1D quantum walk]("submission/1D walk on IBM.ipynb") and [2D quantum walk](submission/2D walk on IBM.ipynb) notebooks compare classical random walks, a simulated quantum walk and a quantum walk on IBM hardware.
 
 ## A sample 1D quantum walk 
 ![1dgif](https://i.imgur.com/xxKeFPo.gif)
