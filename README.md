@@ -10,3 +10,4 @@ Run the python notebooks in the submissions folder:
 - The 1D and 2D quantum walks compare classical random walks, a simulated quantum walk and a quantum walk on IBM hardware.
 
 
+![1dgif](1d walk frames/1d walk gif.GIF)
