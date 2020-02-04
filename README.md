@@ -2,6 +2,8 @@
 
 A tutorial on 1D and 2D quantum walks using Qiskit, with real quantum hardware. Made during the 2020 IQUHACK hackathon at MIT.
 
+![](https://i.imgur.com/3V7AJbo.png)
+
 ## How to run
 
 Run the python notebooks in the submissions folder:
