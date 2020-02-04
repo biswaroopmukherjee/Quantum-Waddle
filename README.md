@@ -7,6 +7,9 @@ Made during the 2020 iQuHACK hackathon at MIT.
 
 ![schrodingersduck](https://i.imgur.com/m8XD232.png)
 
+## Contributors
+Biswaroop Mukherjee, Carsten Robens, Maya Reese, Lamia Ateshian, Yiqi Ni, Enrique Mendez
+
 ## How to run
 
 Run the python notebooks in the submissions folder:
