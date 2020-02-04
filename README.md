@@ -3,12 +3,9 @@
 # Quantum Waddle
 
 A tutorial on 1D and 2D quantum walks using Qiskit, with real quantum hardware. 
-Made during the 2020 iQuHACK hackathon at MIT.
+Made during the 2020 iQuHACK hackathon at MIT by Biswaroop Mukherjee, Carsten Robens, Maya Reese, Lamia Ateshian, Yiqi Ni, and Enrique Mendez.
 
 ![schrodingersduck](https://i.imgur.com/3zAtniE.png)
-
-## Contributors
-Biswaroop Mukherjee, Carsten Robens, Maya Reese, Lamia Ateshian, Yiqi Ni, Enrique Mendez
 
 ## How to run
 
