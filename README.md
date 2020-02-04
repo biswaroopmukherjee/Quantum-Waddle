@@ -1,8 +1,11 @@
+
+
 # Quantum Waddle
 
-A tutorial on 1D and 2D quantum walks using Qiskit, with real quantum hardware. Made during the 2020 IQUHACK hackathon at MIT.
+A tutorial on 1D and 2D quantum walks using Qiskit, with real quantum hardware. 
+Made during the 2020 iQuHACK hackathon at MIT.
 
-![](https://i.imgur.com/3V7AJbo.png =250x)
+![schrodingersduck](https://i.imgur.com/m8XD232.png)
 
 ## How to run
 
