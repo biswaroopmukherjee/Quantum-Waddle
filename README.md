@@ -5,12 +5,14 @@
 A tutorial on 1D and 2D quantum walks using Qiskit, with real quantum hardware. 
 Made during the 2020 iQuHACK hackathon at MIT.
 
-![schrodingersduck](https://i.imgur.com/m8XD232.png)
+![schrodingersduck](https://i.imgur.com/3zAtniE.png)
 
 ## Contributors
 Biswaroop Mukherjee, Carsten Robens, Maya Reese, Lamia Ateshian, Yiqi Ni, Enrique Mendez
 
 ## How to run
+
+Install the requirements by running `pip install -r requirements.txt --user`
 
 Run the python notebooks in the submissions folder:
 
